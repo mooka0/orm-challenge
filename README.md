@@ -13,5 +13,5 @@ A mysql database and application backend for an e-commerce site. Built using MyS
 git clone https://github.com/mooka0/orm-challenge.git
 
 # Live Recording
-
+https://drive.google.com/file/d/1zsLLdbvzG95NhYlLJMpzozfTimrp1uu1/view
 
